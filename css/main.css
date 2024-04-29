@@ -1440,7 +1440,7 @@ header .text-part {
 
 #intro {
     position: relative;
-    background: linear-gradient(rgba(127,255,212,0.7), rgba(127,255,212,0.7)), url(../images/warsaw.jpg);
+    background: linear-gradient(rgba(127,255,212,0.7), rgba(127,255,212,0.7)), url(../images/calgary.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center top;
