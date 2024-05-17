@@ -1,0 +1,112 @@
+*** 1st CALL FOR PAPERS EXPRESS/SOS@CONFEST2024
+Combined
+31st International Workshop on Expressiveness in Concurrency
+and 21st Workshop on Structural Operational Semantics
+(EXPRESS/SOS 2024)
+
+https://express-sos.github.io/
+
+Calgary (Canada)
+September 9, 2024, Affiliated with CONCUR 2024
+
+Submission deadline (full and short papers):
+Monday, June 24, 2024
+===========================================
+
+== SCOPE AND TOPICS
+The EXPRESS/SOS workshop series aims at bringing together researchers
+interested in the formal semantics of systems and programming
+concepts, and in the expressiveness of computational models.
+
+Topics of interest for EXPRESS/SOS 2024 include, but are not limited to:
+
+- expressiveness and rigorous comparisons between models of
+computation (process algebras, event structures, Petri nets, rewrite
+systems)
+- expressiveness and rigorous comparisons between programming
+languages and models (distributed, component-based, object-oriented,
+service-oriented);
+- logics for concurrency (modal logics, probabilistic and stochastic
+logics, temporal logics and resource logics);
+- analysis techniques for concurrent systems;
+- theory of structural operational semantics (meta-theory,
+category-theoretic approaches, congruence results);
+- comparisons between structural operational semantics and other
+formal semantic approaches;
+- applications and case studies of structural operational semantics;
+- software tools that automate, or are based on, structural
+operational semantics.
+
+We especially welcome contributions bridging the gap between the above
+topics and neighbouring areas, such as, for instance:
+- computer security
+- multi-agent systems
+- programming languages
+- formal verification
+- reversible computation
+- knowledge representation
+
+
+== SUBMISSION GUIDELINES:
+We invite two types of submissions:
+* Full papers (up to 15 pages, excluding references).
+* Short papers (up to 5 pages, excluding references, not included in
+the workshop post-proceedings)
+
+All submissions have to adhere to the EPTCS format (https://info.eptcs.org/).
+Simultaneous submission to journals, conferences or other workshops is
+only allowed for short papers; full papers must be unpublished.
+
+Submission is performed through EasyChair:
+https://easychair.org/conferences/?conf=expresssos2024
+
+The final versions of accepted full papers will be published in EPTCS.
+It is understood that for each accepted submission one of the
+co-authors will register for the workshop and give the talk.
+
+* We are pleased to announce the possibility of a Joint Special Issue with EXPRESS/SOS 2023 (due in December 2024).
+
+
+== IMPORTANT DATES
+- Paper submission Monday June 24
+- Paper notification Monday July 29
+- Workshop: September 9, 2024
+- Final version - post-proceedings: October 9, 2024 
+
+
+== WORKSHOP CO-CHAIRS:
+Georgiana Caltais, University of Twente, The Netherlands
+Cinzia Di Giusto, Université Côte d'Azur, CNRS, France
+
+
+== PROGRAM COMMITTEE:
+Georgiana Caltais , (co-chair) University of Twente, The Netherlands
+Cinzia Di Giusto , (co-chair) Université Côte d'Azur, CNRS, France
+Elli Anastasiadi Uppsala University, Sweden
+Matteo Cimini University of Massachusetts Lowell, USA
+Wan Fokkink , Vrije Universiteit Amsterdam, The Netherlands
+Adrian Francalanza University of Malta
+Fatemeh Ghassemi University of Tehran, Iran
+Lorenzo Gheri University of Liverpool
+Eva Graversen University of Southern Denmark, Denmark
+Jean Krivine CNRS, Paris, France
+Sergueï Lenglet Université de Lorraine
+Doriana Medic University of Turin, Italy
+Maurizio Murgia Gran Sasso Science Institute
+António Ravara Universidade NOVA de Lisboa, Portugal
+Marjan Sirjani Malardalen University, Sweden
+Felix Stutz University of Luxembourg, Luxembourg
+Emilio Tuosto Gran Sasso Science Institute, Italy
+Frank Valencia LIX, Ecole Polytechnique, France
+Daniele Varacca LACL - Université Paris Est Créteil, France
+Gianluigi Zavattaro Department of Computer Science and Engineering - University of Bologna, Italy
+
+
+== CONTACT
+Prospective authors are encouraged to contact the co-chairs in case of
+questions at
+g.g.c.caltais@utwente.nl
+cinzia.di-giusto@univ-cotedazur.fr
+
+
+
